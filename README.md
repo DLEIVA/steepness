@@ -25,7 +25,7 @@ library(steepness)
 ```
 
 
-The latest release of mailR is available on [CRAN](http://cran.r-project.org/web/packages/steepness/):
+The latest release of steepness is available on [CRAN](http://cran.r-project.org/web/packages/steepness/):
 
 ```R
 install.packages("steepness", dep = TRUE)
@@ -40,7 +40,7 @@ Usage
 
 Issues/Contibutions
 ===================
-Happy to hear about issues you encounter using mailR via Github's [issue tracker](https://github.com/DLEIVA/steepness/issues/new).
+Happy to hear about issues you encounter using steepness via Github's [issue tracker](https://github.com/DLEIVA/steepness/issues/new).
 
 If you would like to submit a patch to improve steepness, please send a pull request to the *develop branch*.
 
