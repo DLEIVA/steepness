@@ -5,7 +5,7 @@ Overview
 ========
 steepness package allows users to quantify and test steepness of dominance hierarchies with R.
 
-What's new in version 0.6
+What's new in version 0.2
 -------------------------
 **27th June 2016**
 
