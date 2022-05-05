@@ -5,12 +5,12 @@ Overview
 ========
 steepness package allows users to quantify and test steepness of dominance hierarchies with R.
 
-What's new in version 0.2
--------------------------
-**27th June 2016**
+What's new in version 0.3-0
+---------------------------
+**5th May 2022**
 
-* New methods for printing and summarizing steepness test and for plotting steepness in linear hierarchies.
-* Solved memory-access errors in steep.c code.
+* Solved code problems when checking sociomatrices in main functions.
+* Updated way of using UseDynLib in NAMESPACE.
 
 Installation instructions
 =========================
@@ -61,6 +61,12 @@ If you would like to submit a patch to improve steepness, please send a pull req
 
 Change log
 ===================
+
+-------------
+VERSION 0.3-0
+-------------
+* Solved code problems when checking sociomatrices in main functions.
+* Updated way of using UseDynLib in NAMESPACE.
 
 -------------
 VERSION 0.2-2
